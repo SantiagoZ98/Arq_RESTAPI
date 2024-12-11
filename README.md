@@ -7,7 +7,7 @@ A simple RESTAPI server using python, dockerized for easy execution in any envir
 This is a basic WebSocket server implemented with Node.js. The server listens for RESTAPI connections on port 8080 and sends a message to all connected clients. It also logs messages received from clients.
 
 ### Changes:
-- Now, the server serves an index.html file for easy RESTAPI client testing through a browser.
+- Now, the server serves an app.py file for easy RESTAPI client testing through a browser.
 - RESTAPI connection is established at https://localhost:8080.
 
 ## Technologies Used
