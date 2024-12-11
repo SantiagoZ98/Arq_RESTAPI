@@ -8,7 +8,7 @@ This is a basic WebSocket server implemented with Node.js. The server listens fo
 
 ### Changes:
 - Now, the server serves an index.html file for easy RESTAPI client testing through a browser.
-- RESTAPI connection is established at ws://localhost:8080.
+- RESTAPI connection is established at https://localhost:8080.
 
 ## Technologies Used
 
