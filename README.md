@@ -53,9 +53,9 @@ To run this project, you need to have Docker installed on your machine. If you d
 
 5. *Access the RESTAPI server:*
 
-   Once the container is running, you can connect to the WebSocket server using the following WebSocket URL:
+   Once the container is running, you can connect to the WebSocket server using the following RESTAPI URL:
    bash
-   ws://localhost:8080
+   https://localhost:8080/home
    
 
 6. **Test the connection:**
